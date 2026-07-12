@@ -12,7 +12,7 @@ MSA · 멀티테넌시 · 동시성 제어 · Hybrid Search · LLM 라우팅 · 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D5AE6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HwangJwan/Portfolio)
 [![Blog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/juwan7056)
-[![Email](https://img.shields.io/badge/juwan7056@naver.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juwan7056@naver.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juwan7056@naver.com)
 
 </div>
 
